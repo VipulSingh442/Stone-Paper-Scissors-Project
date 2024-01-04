@@ -1,1 +1,1 @@
-# Stone-Paper-Scissors-Project as
+# You can access whole stone paper scissors project code in this repository
